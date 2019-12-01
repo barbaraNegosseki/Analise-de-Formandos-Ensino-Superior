@@ -1,5 +1,4 @@
 # Análise de Formandos no Ensino Superior
-Trabalho de Estrutura de dados 2019 2º SEM
 
 Análise de Concluintes de Acordo com Ano e Sexo
 Será feita uma análise em cima dos concluintes dos cursos superiores, de acordo com os anos e o sexo dos alunos.
